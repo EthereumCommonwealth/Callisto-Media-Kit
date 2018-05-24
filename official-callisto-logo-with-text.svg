@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109.02188mm"
+   height="144.12784mm"
+   viewBox="0 0 109.02188 144.12784"
+   version="1.1"
+   id="svg2373"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="official-callisto-logo.svg">
+  <defs
+     id="defs2367" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="422.23451"
+     inkscape:cy="218.08185"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="683"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2370">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(379.57047,28.307971)">
+    <g
+       transform="matrix(2.5252925,0,0,2.5252925,-724.44509,-756.30885)"
+       id="g904"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.14030407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/linux/Desktop/official-callisto-logo-with-text.png"
+       inkscape:export-xdpi="1169"
+       inkscape:export-ydpi="1169">
+      <text
+         id="text898"
+         y="345.20352"
+         x="143.75038"
+         style="font-style:normal;font-weight:normal;font-size:12.2626133px;line-height:7.6641326px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.14030407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Dolce Vita Light';-inkscape-font-specification:'Dolce Vita Light, ';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.14030407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="345.20352"
+           x="143.75038"
+           id="tspan896"
+           sodipodi:role="line">/ILLISTO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.2626133px;line-height:7.6641326px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.14030407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="136.44075"
+         y="345.19754"
+         id="text902"><tspan
+           sodipodi:role="line"
+           id="tspan900"
+           x="136.44075"
+           y="345.19754"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Dolce Vita Light';-inkscape-font-specification:'Dolce Vita Light, ';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.14030407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">C</tspan></text>
+    </g>
+    <g
+       transform="translate(-579.05954,-110.36906)"
+       style="display:inline"
+       id="g2347"
+       inkscape:export-filename="/home/linux/Desktop/official-callisto-logo-with-text.png"
+       inkscape:export-xdpi="1169.3552"
+       inkscape:export-ydpi="1169.3552">
+      <circle
+         transform="scale(1,-1)"
+         id="circle971"
+         r="54.053429"
+         cx="253.95023"
+         cy="-136.36452"
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/linux/Desktop/callisto_test3.png"
+         inkscape:export-xdpi="233"
+         inkscape:export-ydpi="233" />
+      <path
+         id="path973"
+         d="m 253.95023,83.69708 a 52.667448,52.667448 0 0 0 0,105.33488 26.333724,26.333724 0 0 0 0,-52.66744 26.333722,26.333722 0 0 1 0,-52.66744"
+         style="fill:#ffffff;stroke-width:1.11667967;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/linux/Desktop/callisto_test3.png"
+         inkscape:export-xdpi="233"
+         inkscape:export-ydpi="233" />
+      <circle
+         transform="scale(1,-1)"
+         id="circle975"
+         r="6.9299264"
+         cy="-110.03081"
+         style="fill:#ffffff;stroke-width:1.11667967;stroke-miterlimit:4;stroke-dasharray:none"
+         cx="253.95023"
+         inkscape:export-filename="/home/linux/Desktop/callisto_test3.png"
+         inkscape:export-xdpi="233"
+         inkscape:export-ydpi="233" />
+      <circle
+         transform="scale(1,-1)"
+         id="circle977"
+         r="6.9299264"
+         cy="-162.69823"
+         cx="253.95023"
+         style="fill:#000000;stroke-width:1.11667967;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/linux/Desktop/callisto_test3.png"
+         inkscape:export-xdpi="233"
+         inkscape:export-ydpi="233" />
+    </g>
+  </g>
+</svg>
